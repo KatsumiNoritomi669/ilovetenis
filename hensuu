@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Practice-1</title>
+</head>
+
+<body>
+<script>
+var a=3;
+var b=5;
+
+document.write(a+b);
+</script>
+</body>
+</html>
